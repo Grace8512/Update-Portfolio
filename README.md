@@ -2,4 +2,4 @@
 
 Updated My Portfolios on Web Page.
 
-[Go to My Portfolio](file:///Users/macbookair/Desktop/Update-Portfolio/index.html)
+[Go to My Portfolio]()
